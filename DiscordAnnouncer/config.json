@@ -1,0 +1,47 @@
+{
+    "command_prefix": "!",
+    "auto_translate_enabled": true,
+    "supported_languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ja",
+        "ko",
+        "zh",
+        "hi",
+        "ar",
+        "nl",
+        "pl",
+        "tr"
+    ],
+    "announcement_channels": {
+        "1367880724497301534": 1367880725495545863
+    },
+    "auto_translate_channels": [
+        1367880725495545863,
+        1367880725495545864
+    ],
+    "announcement_language_channels": {
+        "1367880724497301534": {
+            "en": 1367880725495545863,
+            "ko": 1367880725495545864,
+            "pt": 1367880725495545865
+        }
+    },
+    "available_announcement_languages": {
+        "tl": "Tagalog",
+        "id": "Indonesian",
+        "pt": "Portuguese",
+        "en": "English",
+        "ko": "Korean",
+        "zh": "Chinese",
+        "ms": "Malaysian",
+        "th": "Thai"
+    },
+    "translation_target_language": "en",
+    "translation_confidence_threshold": 0.8
+}
