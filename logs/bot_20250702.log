@@ -1,0 +1,146 @@
+2025-07-02 03:12:09 - config - INFO - Configuration loaded from config.json
+2025-07-02 03:12:09 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:12:09 - __main__ - ERROR - Bot crashed: Improper token has been passed.
+2025-07-02 03:12:09 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f411ce61ef0>, 12140.642382775)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f411ce67d50>
+2025-07-02 03:20:29 - config - INFO - Configuration loaded from config.json
+2025-07-02 03:20:29 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:20:29 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 03:20:30 - __main__ - ERROR - Bot crashed: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 03:20:30 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f7ec4544c20>, 12640.732461979)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f7ec454fd90>
+2025-07-02 03:20:51 - config - INFO - Configuration loaded from config.json
+2025-07-02 03:20:51 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:20:51 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 03:20:54 - __main__ - INFO - Cj's Autotranslator#1160 has connected to Discord!
+2025-07-02 03:20:54 - __main__ - INFO - Bot is in 0 guilds
+2025-07-02 03:45:28 - config - INFO - Configuration loaded from config.json
+2025-07-02 03:45:28 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:45:29 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 03:45:31 - __main__ - INFO - Cj's Autotranslator#1160 has connected to Discord!
+2025-07-02 03:45:31 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 03:45:31 - __main__ - INFO - Connected to guild: ROO Server (ID: 1367880724497301534)
+2025-07-02 03:48:48 - config - INFO - Configuration loaded from config.json
+2025-07-02 03:48:48 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:48:48 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 03:48:50 - __main__ - INFO - Cj's Autotranslator#1160 has connected to Discord!
+2025-07-02 03:48:50 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 03:48:50 - __main__ - INFO - Connected to guild: ROO Server (ID: 1367880724497301534)
+2025-07-02 03:51:33 - __main__ - INFO - Received message from ambatucj: !help
+2025-07-02 03:51:49 - __main__ - INFO - Received message from ambatucj: !help command
+2025-07-02 03:51:56 - __main__ - INFO - Received message from ambatucj: !announce hello
+2025-07-02 03:52:23 - __main__ - INFO - Received message from ambatucj: !set_announcement_channel
+2025-07-02 03:52:23 - config - INFO - Configuration saved to config.json
+2025-07-02 03:52:23 - cogs.announcements - INFO - Announcement channel set to 🌐┆【world-chat】 in ROO Server
+2025-07-02 03:52:39 - __main__ - INFO - Received message from ambatucj: !announce hello
+2025-07-02 03:52:39 - cogs.announcements - INFO - Announcement sent by ambatucj in ROO Server
+2025-07-02 03:56:22 - __main__ - INFO - Received message from ambatucj: !help
+2025-07-02 03:56:38 - __main__ - INFO - Received message from ambatucj: auto_translate
+2025-07-02 03:56:46 - __main__ - INFO - Received message from ambatucj: !auto_translate
+2025-07-02 03:56:46 - config - INFO - Configuration saved to config.json
+2025-07-02 03:56:46 - cogs.translation - INFO - Auto-translate toggled for 🌐┆【world-chat】 by ambatucj
+2025-07-02 03:56:50 - __main__ - INFO - Received message from ambatucj: pota
+2025-07-02 03:56:59 - __main__ - INFO - Received message from ambatucj: !detect
+2025-07-02 03:57:04 - __main__ - INFO - Received message from ambatucj: !detect pota
+2025-07-02 03:57:13 - config - INFO - Configuration loaded from config.json
+2025-07-02 03:57:13 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 03:57:13 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 03:57:16 - __main__ - INFO - Cj's Autotranslator#1160 has connected to Discord!
+2025-07-02 03:57:16 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 03:57:16 - __main__ - INFO - Connected to guild: ROO Server (ID: 1367880724497301534)
+2025-07-02 03:57:20 - __main__ - INFO - Received message from ambatucj: !languages
+2025-07-02 03:57:35 - __main__ - INFO - Received message from ambatucj: !translate en pota
+2025-07-02 03:57:44 - __main__ - INFO - Received message from ambatucj: !translate english pota
+2025-07-02 03:57:45 - cogs.translation - INFO - Translation: -> English by ambatucj
+2025-07-02 03:57:57 - __main__ - INFO - Received message from ambatucj: !translate english inay
+2025-07-02 03:57:57 - cogs.translation - INFO - Translation: -> English by ambatucj
+2025-07-02 03:58:06 - __main__ - INFO - Received message from ambatucj: !translate english upo
+2025-07-02 03:58:07 - cogs.translation - INFO - Translation: -> English by ambatucj
+2025-07-02 04:06:35 - config - INFO - Configuration loaded from config.json
+2025-07-02 04:06:35 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 04:06:36 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 04:06:38 - __main__ - INFO - Cj's Autotranslator#1160 has connected to Discord!
+2025-07-02 04:06:38 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 04:06:38 - __main__ - INFO - Connected to guild: ROO Server (ID: 1367880724497301534)
+2025-07-02 04:11:38 - config - INFO - Configuration loaded from config.json
+2025-07-02 04:11:38 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 04:11:39 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 04:11:41 - __main__ - INFO - Cj's Autotranslator#1160 has connected to Discord!
+2025-07-02 04:11:41 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 04:11:41 - __main__ - INFO - Connected to guild: ROO Server (ID: 1367880724497301534)
+2025-07-02 04:12:14 - __main__ - INFO - Received message from ambatucj: Hola como estas?
+2025-07-02 04:12:14 - cogs.translation - INFO - Auto-translating message from ambatucj in 🌐┆【world-chat】: Hola como estas?
+2025-07-02 04:12:14 - cogs.translation - WARNING - Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation, proceeding with auto-detection
+2025-07-02 04:12:14 - cogs.translation - INFO - Translation result: Hello how are you?
+2025-07-02 04:12:14 - cogs.translation - INFO - Auto-translation sent for message from ambatucj
+2025-07-02 04:12:22 - __main__ - INFO - Received message from ambatucj: !help
+2025-07-02 04:12:56 - __main__ - INFO - Received message from ambatucj: !set_lang_channel en
+2025-07-02 04:12:56 - config - INFO - Configuration saved to config.json
+2025-07-02 04:12:56 - cogs.announcements - INFO - Language channel set: English -> 🌐┆【world-chat】 by ambatucj
+2025-07-02 04:13:08 - __main__ - INFO - Received message from ambatucj: !set_lang_channel kr
+2025-07-02 04:13:20 - __main__ - INFO - Received message from ambatucj: !set_lang_channel kr
+2025-07-02 04:13:25 - __main__ - INFO - Received message from ambatucj: !set_lang_channel ko
+2025-07-02 04:13:25 - config - INFO - Configuration saved to config.json
+2025-07-02 04:13:25 - cogs.announcements - INFO - Language channel set: Korean -> 🇵🇭┆【philippines-chat】 by ambatucj
+2025-07-02 04:14:04 - __main__ - INFO - Received message from ambatucj: !announce hello
+2025-07-02 04:14:05 - cogs.announcements - INFO - Announcement sent to 🌐┆【world-chat】 (en)
+2025-07-02 04:14:05 - cogs.announcements - INFO - Announcement sent to 🇵🇭┆【philippines-chat】 (ko)
+2025-07-02 04:14:06 - cogs.announcements - INFO - Multi-language announcement sent by ambatucj in ROO Server
+2025-07-02 04:14:26 - __main__ - INFO - Received message from ambatucj: !announcement hello! how are you?
+2025-07-02 04:14:27 - cogs.announcements - INFO - Announcement sent to 🌐┆【world-chat】 (en)
+2025-07-02 04:14:27 - cogs.announcements - INFO - Announcement sent to 🇵🇭┆【philippines-chat】 (ko)
+2025-07-02 04:14:27 - cogs.announcements - INFO - Multi-language announcement sent by ambatucj in ROO Server
+2025-07-02 04:16:21 - config - INFO - Configuration loaded from config.json
+2025-07-02 04:16:21 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 04:16:22 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 04:16:22 - __main__ - ERROR - Bot crashed: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 04:16:22 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f79480e5080>, 15993.191374219)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f7948104f10>
+2025-07-02 04:16:43 - config - INFO - Configuration loaded from config.json
+2025-07-02 04:16:43 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 04:16:43 - __main__ - INFO - All cogs loaded successfully
+2025-07-02 04:16:45 - __main__ - INFO - Cj's Autotranslator#1160 has connected to Discord!
+2025-07-02 04:16:45 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 04:16:45 - __main__ - INFO - Connected to guild: ROO Server (ID: 1367880724497301534)
+2025-07-02 04:20:14 - __main__ - INFO - Received message from ambatucj: !set_lang_channel pt
+2025-07-02 04:20:14 - config - INFO - Configuration saved to config.json
+2025-07-02 04:20:14 - cogs.announcements - INFO - Language channel set: Portuguese -> 🇮🇩┆【indonesia-chat】 by ambatucj
+2025-07-02 04:20:25 - __main__ - INFO - Received message from ambatucj: !announcement BOOM!
+2025-07-02 04:20:26 - cogs.announcements - INFO - Announcement sent to 🌐┆【world-chat】 (en)
+2025-07-02 04:20:26 - cogs.announcements - INFO - Announcement sent to 🇵🇭┆【philippines-chat】 (ko)
+2025-07-02 04:20:26 - cogs.announcements - INFO - Announcement sent to 🇮🇩┆【indonesia-chat】 (pt)
+2025-07-02 04:20:27 - cogs.announcements - INFO - Multi-language announcement sent by ambatucj in ROO Server (everyone: False)
+2025-07-02 04:20:38 - __main__ - INFO - Received message from ambatucj: !announcement hello!
+2025-07-02 04:20:38 - cogs.announcements - INFO - Announcement sent to 🌐┆【world-chat】 (en)
+2025-07-02 04:20:39 - cogs.announcements - INFO - Announcement sent to 🇵🇭┆【philippines-chat】 (ko)
+2025-07-02 04:20:39 - cogs.announcements - INFO - Announcement sent to 🇮🇩┆【indonesia-chat】 (pt)
+2025-07-02 04:20:39 - cogs.announcements - INFO - Multi-language announcement sent by ambatucj in ROO Server (everyone: False)
+2025-07-02 04:24:38 - __main__ - INFO - Received message from ambatucj: !help
+2025-07-02 04:25:22 - __main__ - INFO - Received message from ambatucj: !autotranslate
+2025-07-02 04:25:35 - __main__ - INFO - Received message from ambatucj: !aute_translate
+2025-07-02 04:25:41 - __main__ - INFO - Received message from ambatucj: !auto_translate
+2025-07-02 04:25:41 - config - INFO - Configuration saved to config.json
+2025-07-02 04:25:41 - cogs.translation - INFO - Auto-translate enabled for 🇵🇭┆【philippines-chat】 by ambatucj
+2025-07-02 04:25:44 - __main__ - INFO - Received message from ambatucj: hello
+2025-07-02 04:25:44 - cogs.translation - INFO - Auto-translating message from ambatucj in 🇵🇭┆【philippines-chat】: hello
+2025-07-02 04:25:44 - cogs.translation - WARNING - Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation, proceeding with auto-detection
+2025-07-02 04:25:45 - cogs.translation - INFO - Translation result: hello
+2025-07-02 04:25:45 - cogs.translation - INFO - No significant translation difference, skipping
+2025-07-02 04:25:54 - __main__ - INFO - Received message from ambatucj: 안녕하세요!
+2025-07-02 04:25:54 - cogs.translation - INFO - Auto-translating message from ambatucj in 🇵🇭┆【philippines-chat】: 안녕하세요!
+2025-07-02 04:25:54 - cogs.translation - WARNING - Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation, proceeding with auto-detection
+2025-07-02 04:25:54 - cogs.translation - INFO - Translation result: hello!
+2025-07-02 04:25:54 - cogs.translation - INFO - Auto-translation sent for message from ambatucj
+2025-07-02 04:26:09 - __main__ - INFO - Received message from ambatucj: 안녕하세요!
+2025-07-02 04:26:09 - cogs.translation - INFO - Auto-translating message from ambatucj in 🌐┆【world-chat】: 안녕하세요!
+2025-07-02 04:26:09 - cogs.translation - WARNING - Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation, proceeding with auto-detection
+2025-07-02 04:26:09 - cogs.translation - INFO - Translation result: hello!
+2025-07-02 04:26:10 - cogs.translation - INFO - Auto-translation sent for message from ambatucj
+2025-07-02 04:26:13 - __main__ - INFO - Received message from ambatucj: Hola!
+2025-07-02 04:26:13 - cogs.translation - INFO - Auto-translating message from ambatucj in 🌐┆【world-chat】: Hola!
+2025-07-02 04:26:13 - cogs.translation - WARNING - Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation, proceeding with auto-detection
+2025-07-02 04:26:13 - cogs.translation - INFO - Translation result: Hello!
+2025-07-02 04:26:13 - cogs.translation - INFO - Auto-translation sent for message from ambatucj
